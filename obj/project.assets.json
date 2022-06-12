@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muaminu\\Downloads\\DevOpsCourse\\1charlestest.csproj",
+      "projectUniqueName": "C:\\Users\\muaminu\\Downloads\\devops-webapp-solution\\DevOpsCourse\\1charlestest.csproj",
       "projectName": "1charlestest",
-      "projectPath": "C:\\Users\\muaminu\\Downloads\\DevOpsCourse\\1charlestest.csproj",
+      "projectPath": "C:\\Users\\muaminu\\Downloads\\devops-webapp-solution\\DevOpsCourse\\1charlestest.csproj",
       "packagesPath": "C:\\Users\\muaminu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muaminu\\Downloads\\DevOpsCourse\\obj\\",
+      "outputPath": "C:\\Users\\muaminu\\Downloads\\devops-webapp-solution\\DevOpsCourse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muaminu\\AppData\\Roaming\\NuGet\\NuGet.Config"
